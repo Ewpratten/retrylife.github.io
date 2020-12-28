@@ -3,10 +3,10 @@ layout: page
 title:  "The language hunt: Part 2"
 description: "A quick followup"
 date:   2019-06-24 21:36:00
-categories: frc
+tags: frc
 ---
 
-This is a very short post, just to explain the result of [The language Hunt](/frc/2019/04/30/FRC-Languages.html).
+This is a very short post, just to explain the result of [The language Hunt](/blog/2019/04/30/frc-languages).
 
 ## Our choice
 For our upcoming 2020 season and for the forseeable future, we have chosen Java as our programming language for direct hardware interfacing, and Python for networking, vision, and other smaller tasks.

@@ -1,15 +1,12 @@
 {
-  "name": "learn-starter",
+  "name": "retrylife_ca",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "serve": "eleventy --serve"
   },
   "dependencies": {
-    "next": "^10.0.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "@11ty/eleventy": "^0.11.1",
+    "highlight.js": "^10.5.0"
   }
 }

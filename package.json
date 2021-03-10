@@ -1,0 +1,11 @@
+{
+    "name": "retrylife.ca",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "@11ty/eleventy": "^0.11.1",
+        "jshint": "^2.12.0"
+    }
+}

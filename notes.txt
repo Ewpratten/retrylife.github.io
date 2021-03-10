@@ -1,0 +1,33 @@
+Idea - 
+tri-split diagonal front landing page (angled titles?): 
+ - Software
+ - Photography
+ - Radio
+
+Tri-split on desktop, vertical cards on mobile?
+
+
+Software Frontpage layout:
+all sections are full height
+
+ - Welcome hero : https://www.instagram.com/p/CC2BV7fJvIk/
+ - Experience (dated list with outlinks)
+ - Blog (side scroll)
+ - Skills (cols with description)
+ - Projects (side scroll)
+ - Contact
+
+Photography frontpage layout:
+
+ - Hero image + title (drone, cameras, ... need to take this photo)
+ - Floating vertical scroll examples linking out to instagram
+
+Radio frontpage layout:
+
+ - Together: Last heard (RBN + contacts) & farthest heard (rbn) & Last beacon (aprs)
+ - Event log with spots + contacts (top 50) (emphasis on contacts (bright, pop out?))
+
+ ---
+
+ - Pagnigated  Blog list
+ 
